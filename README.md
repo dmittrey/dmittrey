@@ -4,4 +4,4 @@
 
 <p align="left"> <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dmittrey&theme=dracula"/> </p>
 
-<p align="left"> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmittrey&layout=compact)](https://github.com/anuraghazra/github-readme-stats) </p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmittrey&layout=compact)
